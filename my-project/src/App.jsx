@@ -2,8 +2,10 @@
 function App() {
 
   return(
-    <div>
-      <h1>HERO</h1>
+    <div >
+      <div><h1>HERO</h1>
+      </div>
+      
     </div>
   )
 
